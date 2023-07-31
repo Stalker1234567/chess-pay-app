@@ -1,2 +1,2 @@
 # chess-pay-app
-chess pay app
+Ислам и Богдан (не геи)
