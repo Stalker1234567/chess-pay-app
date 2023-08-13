@@ -1,2 +1,3 @@
 # chess-pay-app
-Ислам и Богдан (не геи)
+Developers:
+Islam, Bogdan.
